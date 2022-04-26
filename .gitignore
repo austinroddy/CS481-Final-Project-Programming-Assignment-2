@@ -3,3 +3,4 @@ tokenizer.json
 steam_reviews.h5
 neg_prob.txt
 pos_prob.txt
+models.zip
